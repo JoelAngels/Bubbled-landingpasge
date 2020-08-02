@@ -93,6 +93,7 @@ h1 {
 
 .bubbles img{
     width: 50px;
+    animation: bubble 7s linear infinite;
 }
 
 .bubbles {
@@ -103,3 +104,4 @@ h1 {
     position:absolute;
     bottom: 0;
 }
+
