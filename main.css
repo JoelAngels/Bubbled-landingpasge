@@ -83,3 +83,10 @@ h1 {
     top: 50%;
     transform: translateY(-50%);
 }
+
+.useful-links {
+    width: 50px;
+    text-align: center;
+    position: absolute;
+    bottom: 30px;
+}
